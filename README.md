@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-        <h1>Hello, I'm Your Name</h1>
+        <h1>Hello, I'm Your Engr Maaz Takalanii</h1>
         <p>Welcome to my GitHub profile! I'm a passionate computer system engineer with a diverse skill set and a penchant for problem-solving.</p>
     </header>
 
