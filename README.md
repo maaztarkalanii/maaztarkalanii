@@ -22,7 +22,7 @@ I'm currently immersed in Machine Learning and Data Science, diving into algorit
 
 If you're interested in discussing technology, collaboration opportunities, or just want to chat, you can reach out to me at 
 [maaztarkalanii@gmail.com].
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
-[Twitter](https://twitter.com/yourhandle). 
+[LinkedIn](https://www.linkedin.com/in/maaz-tarkalanii-b83b77264/)
+[Twitter](https://twitter.com/tarkalanii15112). 
 I'm always open to new opportunities and exciting conversations!
 Be happy and charm....!
