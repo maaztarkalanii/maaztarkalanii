@@ -6,11 +6,6 @@ Welcome to my GitHub profile. I'm a computer system engineer with a passion for 
 - **WordPress:** Crafting web solutions that make an impact.
 - **Machine Learning & Data Science:** Exploring the world of data and AI.
 
-## Featured Projects
-
-- [Project 1](Link to Project 1): A brief description of Project 1 and your role.
-- [Project 2](Link to Project 2): A brief description of Project 2 and your contributions.
-
 ## Current Focus
 
 I'm currently immersed in Machine Learning and Data Science, diving into algorithms, data analysis, and artificial intelligence to make meaningful contributions to various domains.
