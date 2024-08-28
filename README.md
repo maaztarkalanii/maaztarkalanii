@@ -1,4 +1,4 @@
-# Hello, I'm Engr Maaz Takalanii!
+# Hello, I'm Engr Maaz Tarkalanii!
 Welcome to my GitHub profile. I'm a computer system engineer with a passion for technology and a focus on the following areas:
 
 - **Flutter UI/UX:** Creating engaging and beautiful user interfaces using Flutter.
