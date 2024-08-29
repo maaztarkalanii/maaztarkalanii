@@ -1,6 +1,7 @@
 # Hello, I'm Engr Maaz Tarkalanii!
 Welcome to my GitHub profile. I'm a computer system engineer with a passion for technology and a focus on the following areas:
 
+- **Web Developer React js:** Crafting web solutions that make an impact.
 - **Flutter UI/UX:** Creating engaging and beautiful user interfaces using Flutter.
 - **Shopify:** Building e-commerce solutions for businesses.
 - **WordPress:** Crafting web solutions that make an impact.
@@ -8,10 +9,14 @@ Welcome to my GitHub profile. I'm a computer system engineer with a passion for 
 
 ## Current Focus
 
-I'm currently immersed in Machine Learning and Data Science, diving into algorithms, data analysis, and artificial intelligence to make meaningful contributions to various domains.
+I'm currently immersed in Web Development, diving into HTML, CSS, Javascript.
 
 ## Technologies and Tools
 
+- React js
+- CSS
+- HTML
+- DOM
 - Flutter
 - Shopify
 - WordPress
